@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+<meta charset="UTF-8" />
+<title>Covid Data Web Data Connector</title>
+</head>
+<body>
+<header>
+<h1>Get Covid Data from the Netherlands</h1>
+</header>
+<main>
+<button id="getData">Click here to get data!</button>
+<main>
+
+<script src="./app.js"></script>
+</body>
+</html>
